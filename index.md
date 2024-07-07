@@ -5,4 +5,4 @@ layout: default
 
 # PTE preparation
 
-- [Day 1](advancedSentenceFormation-summary.md)
+- [Day 1: Advanced Sentence Formation](advancedSentenceFormation-summary.md)
