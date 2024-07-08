@@ -9,4 +9,4 @@ layout: default
 
 
 # Vocabulary helper
-- [Day 1: Usaged for very+ word](vocabulary1.md)
+- [Day 1: Usage for `very` + word](vocabulary1.md)
